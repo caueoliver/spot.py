@@ -5,7 +5,7 @@ Este repositório contém um sistema de recomendação de músicas baseado em co
 ## Arquivos Principais
 
 * **`Spot_py.ipynb`**: Notebook Jupyter com todo o passo a passo da análise, processamento e construção do sistema de recomendação.
-* **`app.py`**: (Use o nome do seu arquivo .py) Aplicação em Python que utiliza o Streamlit para criar uma interface web local e exibir o sistema.
+* **`app_spot_py.py`**: Aplicação em Python que utiliza o Streamlit para criar uma interface web local e exibir o sistema.
 * **`requirements.txt`**: Lista de todas as dependências Python necessárias para rodar o projeto.
 
 ##  Como Usar
@@ -18,7 +18,7 @@ Primeiro, clone o repositório e instale as dependências.
 
 ```bash
 # 1. clonar o repositório
-git clone [https://github.com/caueoliver/spot.py.git](https://github.com/caueoliver/spot.py.git)
+git clone https://github.com/caueoliver/spot.py.git
 
 # 2. entre na pasta do projeto
 cd spot.py
