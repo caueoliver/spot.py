@@ -46,7 +46,7 @@ with st.form("form_recomendacao"):
     humor = st.selectbox('Humor Desejado:', opcoes_humor)
     epoca = st.selectbox('Época Preferida:', opcoes_epoca)
     
-    submitted = st.form_submit_button("Receber Recomendações!")
+    submitted = st.form_submit_button("Receber Recomendações!!")
 
 if submitted:
     user_preferences_string = f"{genero} {humor} {epoca}"
